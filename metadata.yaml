@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '6560'
     url: http://www.gutenberg.org/2009/agents/6560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16241#Barbara-s-HeritageYoung-Americans-Among-the-Old-Italian-Masters
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text
 identifiers:
